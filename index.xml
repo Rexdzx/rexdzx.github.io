@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muhammad Rafli</title>
+    <link>https://rexdzx.github.io/</link>
+    <description>Recent content on Muhammad Rafli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://rexdzx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tentang Saya</title>
+      <link>https://rexdzx.github.io/about/</link>
+      <pubDate>Thu, 20 Oct 2022 21:25:33 +0700</pubDate>
+      
+      <guid>https://rexdzx.github.io/about/</guid>
+      <description>Halo! Nama saya Muhammad Rafli
+Saya adalah manusia biasa seperti pada umumnya yang berkeinginan menjadi seorang Programmer. Saat ini saya berada di bangku SMK dengan jurusan Rekayasa Perangkat Lunak di salah satu sekolah yang berada di Kecamatan Batang Kuis yaitu SMK BIMA UTOMO BS.
+Saya tertarik dengan komputer sejak saya berada di Sekolah Dasar, pada saat itu setiap hari saya menghabiskan waktu untuk bermain game di komputer warnet di dekat rumah saya.</description>
+    </item>
+    
+  </channel>
+</rss>
